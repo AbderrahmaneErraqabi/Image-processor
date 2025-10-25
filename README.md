@@ -24,9 +24,6 @@ Perfect for experimenting with **image data structures**, **loops**, and **file 
 
 ---
 
-### 🏗️ Project Structure
----
-
 ### 🚀 How to Build & Run
 
 #### Using **CMake (Recommended)**
