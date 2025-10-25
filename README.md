@@ -50,5 +50,5 @@ g++ -std=c++20 TD4.cpp -o TD4
 
 Here’s an example of the generated **Mario image** 👇  
 
-![Mario Example](./mario.png)
+![Mario Example](./mario.bmp)
 
