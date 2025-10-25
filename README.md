@@ -22,7 +22,7 @@ ImageProcessor/
 ├── TD4.cpp           # Main source file
 ├── CMakeLists.txt    # Build configuration
 ├── Images.txt        # Input data
-├── mario.png         # Example output image (used below 👇)
+├── mario.png         # Example output image 
 └── README.md         # Project documentation
 ```
 
@@ -48,7 +48,10 @@ g++ -std=c++20 TD4.cpp -o TD4
 
 ## 🎨 Example Output
 
+
 Here’s an example of the generated **Mario image** 👇  
 
-![Mario Example](./mario.png)
+<p align="center">
+  <img src="./mario.png" alt="Mario Example" width="250"/>
+</p>
 
